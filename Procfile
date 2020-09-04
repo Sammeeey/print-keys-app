@@ -1,1 +1,1 @@
-web: python print_keys.py
+worker: python print_keys.py
